@@ -6,7 +6,7 @@
 4. Jalankan `npm run dev`
 
 #Problame 
-1. Jika Frontend react tidak dapat menerima api maka buka config/cors.php
+1. Jika Frontend react tidak dapat menerima api maka buka config/cors.php di folder backend laravel
  dan perikasa apakah path api sudah sesuai atau url react pada allowed_origins berbeda contoh :
 
 return [
